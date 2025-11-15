@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/fc7fade4-42bf-440c-8705-5d43606a6619) and start prompting.
+Simply visit the [Lovable Project](https://emote-insight-dashboard.lovable.app) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
