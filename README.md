@@ -25,26 +25,20 @@
 ### 🏠 Home Page
 (image home.jpg)
 
-### ⚙ Explore flavors Page
-(image eplore flavors.jpg)
+### ⚙ Analyze text Page
+(image Analyze text.jpg)
 
-### 🎨 login Page
-(image login.jpg)
+### 🎨 Analytics Page
+(image Analytics.jpg)
 
-### ⚙ featured scoops Page
-(image featured scoops.jpg)
+### ⚙ Trends Page
+(image Trends.jpg)
 
-### ⚙ scoops brands Page
-(image scoops brands.jpg)
+### ⚙ About Page
+(image  About.jpg)
 
-### ⚙ Cart Page
-(image carts.jpg)
-
-### ⚙ place order Page
-(image place order.jpg)
-
-### ⚙ order confirmation Page
-(image order confirmation.jpg)
+### ⚙ Settings Page
+(image Settings.jpg)
 
 ---
 
