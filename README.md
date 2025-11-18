@@ -32,7 +32,7 @@
 [(image analytics.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/emote-insight-dashboard/main/assets/analytics.jpg)
 
 ### ⚙ Trends Page
-[(image Trends.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/emote-insight-dashboard/main/assets/trendspage.jpg)
+[(image Trends.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/emote-insight-dashboard/main/assets/trends page.jpg)
 
 ### ⚙ About Page
 (image  About.jpg)
