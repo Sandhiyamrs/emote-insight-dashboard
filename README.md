@@ -26,13 +26,13 @@
 [(image home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/emote-insight-dashboard/main/assets/Home.jpg)
 
 ### ⚙ Analyze text Page
-(image Analyze text.jpg)
+[(image about.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/emote-insight-dashboard/main/assets/analyzetextpage.jpg)
 
 ### 🎨 Analytics Page
-(image Analytics.jpg)
+[(image analytics.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/emote-insight-dashboard/main/assets/analytics.jpg)
 
 ### ⚙ Trends Page
-(image Trends.jpg)
+[(image Trends.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/emote-insight-dashboard/main/assets/trendspage.jpg)
 
 ### ⚙ About Page
 (image  About.jpg)
