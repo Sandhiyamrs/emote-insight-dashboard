@@ -26,7 +26,7 @@
 [(image home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/emote-insight-dashboard/main/assets/Home.jpg)
 
 ### ⚙ Analyze text Page
-[(image about.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/emote-insight-dashboard/main/assets/analyzetextpage.jpg)
+[(image analyze-text.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/emote-insight-dashboard/main/assets/analyze-text.jpg)
 
 ### 🎨 Analytics Page
 [(image analytics.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/emote-insight-dashboard/main/assets/analytics.jpg)
