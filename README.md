@@ -23,7 +23,7 @@
 ## 📸 Project Screenshots
 
 ### 🏠 Home Page
-(image home.jpg)
+[(image home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/emote-insight-dashboard/main/assets/Home.jpg)
 
 ### ⚙ Analyze text Page
 (image Analyze text.jpg)
