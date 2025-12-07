@@ -116,7 +116,7 @@ Emote Insight uses:
 ![Analytics](https://raw.githubusercontent.com/Sandhiyamrs/emote-insight-dashboard/main/assets/analytics.jpg)
 
 ### 📈 Emotion Trends  
-![Trends](https://raw.githubusercontent.com/Sandhiyamrs/emote-insight-dashboard/main/assets/Trends.jpg)
+![Emotion Trends](https://raw.githubusercontent.com/Sandhiyamrs/emote-insight-dashboard/main/assets/Emotion-Trends.jpg)
 
 ### ℹ About Page  
 ![About](https://raw.githubusercontent.com/Sandhiyamrs/emote-insight-dashboard/main/assets/about.jpg)
