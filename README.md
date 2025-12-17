@@ -23,22 +23,39 @@
 ## 📸 Project Screenshots
 
 ### 🏠 Home Page
-[(image home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/emote-insight-dashboard/main/assets/Home.jpg)
+<p align="center">
+  <img src="assets/Home.jpg" width="800"/>
+</p>
+
 
 ### ⚙ Analyze text Page
-[(image analyze-text.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/emote-insight-dashboard/main/assets/analyze-text.jpg)
+<p align="center">
+  <img src="assets/Home.jpg" width="800"/>
+</p>
+
 
 ### 🎨 Analytics Page
-[(image analytics.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/emote-insight-dashboard/main/assets/analytics.jpg)
+<p align="center">
+  <img src="assets/Home.jpg" width="800"/>
+</p>
+
 
 ### ⚙ Trends Page
-[(image Trends.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/emote-insight-dashboard/main/assets/Trends.jpg)
+<p align="center">
+  <img src="assets/Home.jpg" width="800"/>
+</p>
+
 
 ### ⚙ About Page
-[(image about.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/emote-insight-dashboard/main/assets/about.jpg)
+<p align="center">
+  <img src="assets/Home.jpg" width="800"/>
+</p>
+
 
 ### ⚙ Settings Page
-[(image settings.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/emote-insight-dashboard/main/assets/settings.jpg)
+<p align="center">
+  <img src="assets/Home.jpg" width="800"/>
+</p>
 
 ---
 
