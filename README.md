@@ -42,7 +42,7 @@
 
 ### ⚙ Trends Page
 <p align="center">
-  <img src="assets/Trends.jpg" width="800"/>
+  <img src="assets/Trends .jpg" width="800"/>
 </p>
 
 
