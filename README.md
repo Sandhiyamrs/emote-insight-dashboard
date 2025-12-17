@@ -30,31 +30,31 @@
 
 ### ⚙ Analyze text Page
 <p align="center">
-  <img src="assets/Home.jpg" width="800"/>
+  <img src="assets/analyze-text.jpg" width="800"/>
 </p>
 
 
 ### 🎨 Analytics Page
 <p align="center">
-  <img src="assets/Home.jpg" width="800"/>
+  <img src="assets/analytics.jpg" width="800"/>
 </p>
 
 
 ### ⚙ Trends Page
 <p align="center">
-  <img src="assets/Home.jpg" width="800"/>
+  <img src="assets/Trends.jpg" width="800"/>
 </p>
 
 
 ### ⚙ About Page
 <p align="center">
-  <img src="assets/Home.jpg" width="800"/>
+  <img src="assets/about.jpg" width="800"/>
 </p>
 
 
 ### ⚙ Settings Page
 <p align="center">
-  <img src="assets/Home.jpg" width="800"/>
+  <img src="assets/settings.jpg" width="800"/>
 </p>
 
 ---
